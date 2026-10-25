@@ -1,0 +1,5 @@
+ewb-vpc-b
+ID: vpc-0ea7ea17238f4ad89
+
+ewb-vpc-a
+ID: vpc-02cade71661e2f9d2
